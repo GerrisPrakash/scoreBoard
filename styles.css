@@ -1,0 +1,28 @@
+.cont{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-size: xx-large;
+}
+body{
+    background: rgb(20, 20, 65);
+}
+#guest-score,#home-score{
+    color: rgb(209, 106, 124);
+    border:20px solid black;
+    padding-left: 30px;
+    padding-right: 30px;
+    background: black;
+    font-size:xx-large;
+    border-radius: 8px;
+}
+#home-1,#home-2,#home-3,#guest-1,#guest-2,#guest-3{
+    color: rgb(243, 233, 233);
+    border-color: rgb(247, 243, 240);
+    background: rgb(20, 20, 65);
+    padding-top: 10px ;
+    padding-bottom:10px;
+    padding-right:8px;
+    padding-left:8px;
+    border-radius: 6px;
+}
